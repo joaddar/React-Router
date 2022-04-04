@@ -7,32 +7,38 @@
     },
     {
         "name": "racket",
-        "brandName": "Lining",
-        "price": 10000
+        "brandName": "victor",
+        "price": 13000,
+        "img": "https://images.pexels.com/photos/4966381/pexels-photo-4966381.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
         "name": "racket",
-        "brandName": "Lining",
-        "price": 10000
+        "brandName": "Yo-nex",
+        "price": 14000,
+        "img": "https://images.pexels.com/photos/5204828/pexels-photo-5204828.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
         "name": "racket",
-        "brandName": "Lining",
-        "price": 10000
+        "brandName": "Ashuye",
+        "price": 8000,
+        "img": "https://images.pexels.com/photos/7235235/pexels-photo-7235235.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
         "name": "racket",
-        "brandName": "Lining",
-        "price": 10000
+        "brandName": "Max-bolt",
+        "price": 5000,
+        "img": "https://images.pexels.com/photos/3660204/pexels-photo-3660204.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
         "name": "racket",
-        "brandName": "Lining",
-        "price": 10000
+        "brandName": "Golde-wing",
+        "price": 1000,
+        "img": "https://images.pexels.com/photos/8476139/pexels-photo-8476139.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
         "name": "racket",
-        "brandName": "Lining",
-        "price": 10000
+        "brandName": "Wish",
+        "price": 15000,
+        "img": "https://images.pexels.com/photos/8496267/pexels-photo-8496267.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     }
 ]

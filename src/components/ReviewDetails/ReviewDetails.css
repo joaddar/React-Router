@@ -1,0 +1,11 @@
+.details {
+    background-color: antiquewhite;
+    border-radius: 5px;
+    box-shadow: 0in;
+}
+
+.details img {
+    justify-items: center;
+    height: 200px;
+    width: 200px;
+}

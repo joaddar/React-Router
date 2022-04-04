@@ -6,10 +6,11 @@ import CustomLink from '../CustomLink/CustomLink';
 import Dashboard from '../Dashboard/Dashboard';
 import Home from '../Home/Home';
 import Review from '../Review/Review';
+import './Header.css'
 
 const Header = () => {
     return (
-        <div>
+        <div className='header'>
             <Link to='/' element={<Home />}></Link>
             <CustomLink to='/home' element={<Home />}>HOME</CustomLink>
             <CustomLink to='/review' element={<Review />}>REVIEW</CustomLink>

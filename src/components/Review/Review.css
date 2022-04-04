@@ -1,0 +1,13 @@
+.products {
+
+    margin-left: 200px;
+    margin-right: 200px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+    padding: 10px;
+}
+
+.products img {
+    justify-items: center;
+}

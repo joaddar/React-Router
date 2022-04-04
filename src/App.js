@@ -9,7 +9,7 @@ import Review from './components/Review/Review';
 function App() {
   return (
     <div className="App">
-      <h1 className=' text-3xl '> Wlcome to asignment 9(react ---router)</h1>
+      <h1 className=' text-3xl '> Welcome to Asignment 9(react ---router)</h1>
       <Header></Header>
       <Routes>
         <Route path='/' element={<Home />}></Route>
