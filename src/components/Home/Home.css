@@ -1,0 +1,20 @@
+.home {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    background-color: bisque;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+.home p {
+    margin-top: 15px;
+    align-items: center;
+    justify-items: center;
+}
+
+.home button {
+    margin-top: 20px;
+    background-image: linear-gradient(tomato, bisque);
+    border-radius: 5px;
+}

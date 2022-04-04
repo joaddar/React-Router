@@ -2,7 +2,8 @@
     {
         "name": "racket",
         "brandName": "Lining",
-        "price": 10000
+        "price": 10000,
+        "img": "https://images.pexels.com/photos/3660204/pexels-photo-3660204.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
         "name": "racket",
