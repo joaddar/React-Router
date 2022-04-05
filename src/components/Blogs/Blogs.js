@@ -11,6 +11,23 @@ const Blogs = () => {
                 porobortite jekhane use korbo sekhane useContext(context) korlei hoiya jai
             </p>
             <p>4. context use korle jhamela kom hoi</p>
+
+            <div className=' my-10'>
+                <h1 >Semantic Tag in HTML </h1>
+                <ul>
+                    <li>SEmantic tag tag holo manush ar meshing er bojhar moto su sposto bornona korar madhom</li>
+                    <li>SEmantic ashole marcup language hishebe toiri kora hoicilo</li>
+                    <li>Internet barar sathe sathe semantic tag er cahidau poribortito hoi</li>
+                    <li>semantik tag e eiguka use kore thaki---------
+                        1 article
+                        2 aside
+                        3 details
+                        4 figcaption
+                        5 figure
+                        6 footerfooter</li>
+                    <li></li>
+                </ul>
+            </div>
         </div>
     );
 };
